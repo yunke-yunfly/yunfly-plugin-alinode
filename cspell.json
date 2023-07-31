@@ -37,7 +37,15 @@
     "ETCDV",
     "zhangsan",
     "npmcorp",
-    "etcdjs"
+    "etcdjs",
+    "alinode",
+    "Alinode",
+    "Agenthub",
+    "agenthub",
+    "Pids",
+    "agenthublist",
+    "logdir",
+    "agentid"
   ],
   "ignorePaths": [
     "package.json",
